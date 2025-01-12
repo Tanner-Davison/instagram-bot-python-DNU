@@ -1,3 +1,5 @@
+DO NOT USE IF YOU DONT WANT TO GET BANNED
+THIS WAS ONLY FOR FUN
 # Instagram Bot
 
 This script automates the process of following users on Instagram by targeting the followers of specified users. It logs activities and handles errors gracefully.
