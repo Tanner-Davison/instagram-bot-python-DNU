@@ -23,6 +23,7 @@ try:
                 except Exception as e:
                     logging.error(f"Error following {follower}: {e}")
                 time.sleep(30)  # Delay to avoid being flagged by Instagram
+                #DONT TRUST THIS SHI*
         except Exception as e:
             logging.error(f"Error fetching followers of {user}: {e}")
 
